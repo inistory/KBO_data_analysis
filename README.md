@@ -3,7 +3,7 @@
 
 ## 결과물
 
-([../Result.html])
+[Result.html](Result.html)
 
 ## 보완할 점
 
